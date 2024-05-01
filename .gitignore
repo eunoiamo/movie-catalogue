@@ -2,7 +2,6 @@
 .idea
 .env
 
-ci.yaml
 dist
 package-lock.js
 node_modules
