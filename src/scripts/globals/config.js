@@ -1,5 +1,5 @@
 const CONFIG = {
-  KEY: '2d53e1926a3c94e37ffb75591fc7e17c',
+  KEY: process.env.API_KEY_IMDB,
   BASE_URL: 'https://api.themoviedb.org/3/',
   BASE_IMAGE_URL: 'https://image.tmdb.org/t/p/w500/',
   DEFAULT_LANGUAGE: 'en-us',
